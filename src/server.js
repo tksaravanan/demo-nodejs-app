@@ -3,7 +3,7 @@ var http = require('http');
 var server = http.createServer(function(request, response) {
 
     response.writeHead(200, {"Content-Type": "text/plain"});
-    response.end("Hello,SurPaaS MaaS As a Container & CI Continue Delivery ");
+    response.end("Hello, Welcome to Corent Technology ");
 
 });
 
